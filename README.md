@@ -2,5 +2,5 @@
 ## Description
 Floating Bar Charts Interface View on iPhone
 
-## GIF
+## Preview
 ![Preview](Preview/BarCharts_Preview.gif)
